@@ -3,11 +3,11 @@
 
 ---
 
-## 🎮  About
+## 🎮 About
 
-This is an **old-school Snake** game written in **pure C-style C++17** using **OpenGL/GLUT**.  
-Everything—**name entry**, **live score**, **speed-ups**, **top-5 leaderboard**—happens **inside one window**.  
-The entire project is **one `.cpp` file**, zero external libraries beyond **FreeGLUT**, and zero globals/statics.
+This is a classic Snake game built entirely in C++17 using OpenGL and FreeGLUT. 
+
+The entire game—including the live scoreboard, name entry, dynamic speed, and a top-5 binary leaderboard—runs perfectly inside a single window. The standout feature of this project is its architecture: everything is contained within just one `.cpp` file, using strictly procedural C++ with zero global variables and no external dependencies other than FreeGLUT.
 
 ---
 
