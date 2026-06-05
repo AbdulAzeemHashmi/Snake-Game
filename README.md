@@ -1,5 +1,5 @@
 # 🐍 Snake - GLUT Ultimate Edition   
-*A single-file, dependency-light rainbow snake with binary high scores, speed-ups, and full on-screen UX.*
+*A single-file, dependency-light rainbow snake with binary high scores, speed-ups, and full on-screen UX.*    
 
 ---
 
